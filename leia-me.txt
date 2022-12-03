@@ -1,0 +1,6 @@
+Para adicionar um admin,  passe 
+Senha padrao: 123;
+{
+    "code_user": "(name)",
+    "password": '(password)'
+}
